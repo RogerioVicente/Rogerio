@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_BD", "MVC_BD\MVC_BD.csproj", "{1A8B53EE-E4E3-4632-AFDD-37E59D6342E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_EF", "MVC_EF\MVC_EF.csproj", "{7E532394-951C-440E-BADE-AFBA84E620CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8B53EE-E4E3-4632-AFDD-37E59D6342E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8B53EE-E4E3-4632-AFDD-37E59D6342E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8B53EE-E4E3-4632-AFDD-37E59D6342E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8B53EE-E4E3-4632-AFDD-37E59D6342E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E532394-951C-440E-BADE-AFBA84E620CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E532394-951C-440E-BADE-AFBA84E620CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E532394-951C-440E-BADE-AFBA84E620CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E532394-951C-440E-BADE-AFBA84E620CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62937DB4-F256-453D-ACEB-578C90F15385}
+	EndGlobalSection
+EndGlobal

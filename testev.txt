@@ -1,0 +1,8 @@
+https://www.coisadeprogramador.com.br/10-perguntas-comuns-em-uma-entrevista-de-programador/
+
+https://www.treinaweb.com.br/blog/operacoes-crud-no-asp-net-mvc-5-com-o-ado-net/
+
+https://medium.com/henrique-dezani/criando-uma-aplica%C3%A7%C3%A3o-web-com-microsoft-asp-net-mvc-e-c-5c145554cfeb
+
+
+https://github.com/RogerioVicente
